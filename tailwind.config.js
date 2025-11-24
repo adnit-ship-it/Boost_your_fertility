@@ -17,10 +17,10 @@ export default {
         backgroundColor: '#EBF2EE',
         bodyColor: '#4A4A4A',
         accentColor1: {
-          DEFAULT: '#337168',
+          DEFAULT: '#A239CA',
           50: 'color-mix(in srgb, #337168 50%, transparent)',
         },
-        accentColor2: '#6C9E7A',
+        accentColor2: '#A239CA',
       },
       fontFamily: {
         // Fonts automatically loaded from designTokens.json

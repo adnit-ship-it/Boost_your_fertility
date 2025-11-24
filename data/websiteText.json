@@ -625,5 +625,94 @@
         }
       }
     }
+  },
+  "pages": {
+    "/": {
+      "layout": {
+        "navbar": {
+          "height": {
+            "mobile": "",
+            "desktop": ""
+          },
+          "logo": {
+            "height": {
+              "mobile": "",
+              "tablet": "",
+              "desktop": ""
+            }
+          }
+        },
+        "footer": {
+          "height": {
+            "mobile": "",
+            "desktop": ""
+          },
+          "logo": {
+            "height": {
+              "mobile": "",
+              "desktop": ""
+            }
+          }
+        }
+      }
+    },
+    "/about": {
+      "layout": {
+        "navbar": {
+          "height": {
+            "mobile": "90px",
+            "desktop": "200px"
+          },
+          "logo": {
+            "height": {
+              "mobile": "",
+              "tablet": "",
+              "desktop": ""
+            }
+          }
+        },
+        "footer": {
+          "height": {
+            "mobile": "",
+            "desktop": ""
+          },
+          "logo": {
+            "height": {
+              "mobile": "",
+              "desktop": ""
+            }
+          }
+        }
+      }
+    },
+    "/products": {
+      "layout": {
+        "navbar": {
+          "height": {
+            "mobile": "",
+            "desktop": ""
+          },
+          "logo": {
+            "height": {
+              "mobile": "",
+              "tablet": "",
+              "desktop": ""
+            }
+          }
+        },
+        "footer": {
+          "height": {
+            "mobile": "",
+            "desktop": ""
+          },
+          "logo": {
+            "height": {
+              "mobile": "",
+              "desktop": ""
+            }
+          }
+        }
+      }
+    }
   }
 }

@@ -587,6 +587,9 @@
       "hamburgerMenu": {
         "src": "/assets/images/hamburger-menu.svg",
         "alt": "Open navigation menu icon"
+      },
+      "brandLogoAlt": {
+        "src": "/assets/images/brand/logo-alt.svg"
       }
     },
     "status": {

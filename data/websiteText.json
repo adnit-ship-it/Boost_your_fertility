@@ -590,6 +590,9 @@
       },
       "brandLogoAlt": {
         "src": "/assets/images/brand/logo-alt.svg"
+      },
+      "brandLogo": {
+        "src": "/assets/images/brand/logo.svg"
       }
     },
     "status": {

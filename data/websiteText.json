@@ -99,6 +99,10 @@
         {
           "src": "/assets/images/clients/new-york-times.png",
           "alt": "The New York Times logo"
+        },
+        {
+          "src": "/assets/images/clients/BYF logo.png",
+          "alt": "BYF logo"
         }
       ]
     },

@@ -572,7 +572,7 @@
           "height": {
             "mobile": "24px",
             "tablet": "28px",
-            "desktop": "28px"
+            "desktop": "32px"
           }
         }
       },

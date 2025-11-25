@@ -43,7 +43,7 @@
           }
         },
         "logo": {
-          "src": "/assets/images/brand/logo.png",
+          "src": "/assets/images/brand/logo.jpg",
           "alt": "Medivora logo",
           "heights": {
             "mobile": "24px",
@@ -572,7 +572,7 @@
           "height": {
             "mobile": "24px",
             "tablet": "28px",
-            "desktop": "32px"
+            "desktop": "36px"
           }
         }
       },
